@@ -1,6 +1,6 @@
 #SocialConnect is a full-stack social media web application built with Next.js . It allows users to create profiles,share image-based posts,interact with others through likes and comments, and follow oher users to curate a personalized feed.
 
-Live Demo :
+Live Demo : https://social-connect-git-main-maheshs-projects-f961267c.vercel.app/
 
 What I Used : 
 Framework: Next.js (App Router) 
